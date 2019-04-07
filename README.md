@@ -3,6 +3,7 @@ Project Title:
 Parsing data from CSV file and insert to a SQLite In-Memory database. 
 
 Installing and configuring project :
+
 Eclipse IDE - start new Maven Project
 Pom.xml - installing sqlite-jdbc driver:
 	<dependency>
