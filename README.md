@@ -26,6 +26,7 @@ To reach the final result of my app i had to go through different steps:
 6)Close all connections.
 
 DDL:
+
 CREATE TABLE interviewCSVToSqlite (
     A TEXT NOT NULL,
     B TEXT NOT NULL,
